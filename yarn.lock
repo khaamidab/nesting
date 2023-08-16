@@ -645,11 +645,11 @@
     iterare "1.2.1"
     tslib "2.5.0"
 
-"@nestjs/config@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.npmjs.org/@nestjs/config/-/config-2.3.1.tgz"
+"@nestjs/config@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/config/-/config-3.0.0.tgz#154ddbaf2b97201a94a3c84757c352c405718cb4"
   dependencies:
-    dotenv "16.0.3"
+    dotenv "16.1.4"
     dotenv-expand "10.0.0"
     lodash "4.17.21"
     uuid "9.0.0"
@@ -1793,9 +1793,9 @@ dotenv-expand@10.0.0:
   version "10.0.0"
   resolved "https://registry.npmjs.org/dotenv-expand/-/dotenv-expand-10.0.0.tgz"
 
-dotenv@16.0.3, dotenv@^16.0.3:
-  version "16.0.3"
-  resolved "https://registry.npmjs.org/dotenv/-/dotenv-16.0.3.tgz"
+dotenv@16.1.4, dotenv@^16.0.3:
+  version "16.1.4"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.1.4.tgz#67ac1a10cd9c25f5ba604e4e08bc77c0ebe0ca8c"
 
 ee-first@1.1.1:
   version "1.1.1"
